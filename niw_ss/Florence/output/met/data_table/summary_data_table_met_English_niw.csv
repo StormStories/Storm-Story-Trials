@@ -1,0 +1,8 @@
+event,reserve_code,station,station_name,parameter,min,max,mean,median,total
+Florence,niw,niwolmet,Oyster Landing (OL),atemp,73.04,90.14,79.5508972691808,79.34,NA
+Florence,niw,niwolmet,Oyster Landing (OL),bp,29.2641152846681,30.090952043468,29.8187702235547,29.9137727380109,NA
+Florence,niw,niwolmet,Oyster Landing (OL),intensprcp,0,2.47244094488189,0.0546778206690354,0,NA
+Florence,niw,niwolmet,Oyster Landing (OL),maxwspd,1.11847092596965,44.5151428535922,18.3938288847436,17.0007580747387,NA
+Florence,niw,niwolmet,Oyster Landing (OL),rh,62,99,88.8998699609883,91,NA
+Florence,niw,niwolmet,Oyster Landing (OL),totprcp,0,0.618110236220472,0.0136694551672588,0,10.511811023622
+Florence,niw,niwolmet,Oyster Landing (OL),wspd,0.671082555581791,30.4224091863745,12.1045025153314,11.4084034448905,NA

@@ -1,0 +1,8 @@
+event,reserve_code,station,station_name,parameter,min,max,mean,median,total
+Matthew,gtm,gtmpcmet,Pellicer Creek (PC),atemp,68.36,85.28,77.8487855655795,78.08,NA
+Matthew,gtm,gtmpcmet,Pellicer Creek (PC),bp,28.880226789511,30.2090715804394,29.9716029485128,30.0318922749823,NA
+Matthew,gtm,gtmpcmet,Pellicer Creek (PC),intensprcp,0,1.16535433070866,0.0209718753927445,0,NA
+Matthew,gtm,gtmpcmet,Pellicer Creek (PC),maxwspd,0,64.6476195210459,15.2638293876222,14.9875104079933,NA
+Matthew,gtm,gtmpcmet,Pellicer Creek (PC),rh,51,100,79.9077029840389,80,NA
+Matthew,gtm,gtmpcmet,Pellicer Creek (PC),totprcp,0,0.291338582677165,0.00524296884818613,0,7.55511811023622
+Matthew,gtm,gtmpcmet,Pellicer Creek (PC),wspd,0,46.7520847055315,9.80156200773405,9.39515577814508,NA

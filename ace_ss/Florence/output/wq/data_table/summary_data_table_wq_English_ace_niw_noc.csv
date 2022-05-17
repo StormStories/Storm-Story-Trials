@@ -1,0 +1,130 @@
+event,reserve_code,station,station_name,parameter,min,max,mean,median
+Florence,ace,acefcwq,Fishing Creek (FC),cdepth,2.952756,11.318898,7.81283622678804,8.2021
+Florence,ace,acemcwq,Mosquito Creek (MC),cdepth,8.1692916,16.3713916,12.8297482850455,13.0905516
+Florence,ace,acespwq,St. Pierre (SP),cdepth,1.9028872,10.1377956,6.16806452743823,6.2664044
+Florence,ace,aceeiwq,Edisto Island (EI),cdepth,4.2979004,12.5328088,8.49903948504551,8.5958008
+Florence,ace,acegpwq,Grove Plantation (GP),cdepth,5.7742784,14.2388456,10.7075581658409,10.9580056
+Florence,ace,acejiwq,Jehossee Island (JI),cdepth,10.5314964,19.0944888,15.3356018273082,15.5511816
+Florence,niw,niwcbwq,Clambank (CB),cdepth,0.656168,8.3005252,4.92467309752926,4.9868768
+Florence,niw,niwdcwq,Debidue Creek (DC),cdepth,4.429134,11.975066,8.77618300442133,8.858268
+Florence,niw,niwolwq,Oyster Landing (OL),cdepth,3.7073492,8.0052496,5.79742891601732,5.905512
+Florence,niw,niwtawq,Thousand Acre (TA),cdepth,5.1181104,10.9580056,8.41447999375813,8.4317588
+Florence,niw,niwwswq,Winyah Bay Surface (WS),cdepth,-0.0328084,5.9711288,3.27358716775033,3.28084
+Florence,niw,niwwbwq,Winyah Bay Bottom (WB),cdepth,14.0419952,19.2257224,16.5685978394794,16.6338588
+Florence,noc,nocrcwq,Research Creek (RC),cdepth,4.8556432,13.615486,7.87111486710013,7.7427824
+Florence,noc,noczbwq,Zeke's Basin (ZB),cdepth,0.1968504,6.725722,2.87805182782835,2.8543308
+Florence,niw,niwolwq,Oyster Landing (OL),chlfluor,6.8,26.9,16.2021645021645,16.5
+Florence,niw,niwwswq,Winyah Bay Surface (WS),chlfluor,4.6,56.9,13.9488946684005,10.7
+Florence,noc,nocrcwq,Research Creek (RC),chlfluor,4.4,80.5,10.8353706111834,9.4
+Florence,ace,acefcwq,Fishing Creek (FC),depth,2.6574804,11.5157484,7.76287701170351,8.1036748
+Florence,ace,acemcwq,Mosquito Creek (MC),depth,7.8412076,16.5354336,12.779789069961,12.9921264
+Florence,ace,acespwq,St. Pierre (SP),depth,1.5748032,10.334646,6.11810531235371,6.2007876
+Florence,ace,aceeiwq,Edisto Island (EI),depth,3.9698164,12.7296592,8.44908026996099,8.5629924
+Florence,ace,acegpwq,Grove Plantation (GP),depth,5.4461944,14.435696,10.6571264792699,10.8595804
+Florence,ace,acejiwq,Jehossee Island (JI),depth,10.2034124,19.2585308,15.2856426122237,15.5183732
+Florence,niw,niwcbwq,Clambank (CB),depth,0.2952756,8.4973756,4.81912305643693,4.8228348
+Florence,niw,niwdcwq,Debidue Creek (DC),depth,4.0682416,12.0734912,8.670632963329,8.7270344
+Florence,niw,niwolwq,Oyster Landing (OL),depth,3.7073492,8.038058,5.81944321038961,5.905512
+Florence,niw,niwtawq,Thousand Acre (TA),depth,4.7244096,10.8595804,8.3089299526658,8.3333336
+Florence,niw,niwwswq,Winyah Bay Surface (WS),depth,-0.6889764,5.8727036,3.168037126658,3.1824148
+Florence,niw,niwwbwq,Winyah Bay Bottom (WB),depth,13.6811028,18.9632552,16.444623364859,16.4370084
+Florence,noc,nocrcwq,Research Creek (RC),depth,5.0196852,12.5000004,7.74231309908973,7.6115488
+Florence,noc,noczbwq,Zeke's Basin (ZB),depth,0.0656168,5.7742784,2.74925005981795,2.7230972
+Florence,ace,acefcwq,Fishing Creek (FC),do_mgl,1.4,5.5,3.69388816644994,3.6
+Florence,ace,acemcwq,Mosquito Creek (MC),do_mgl,2.4,6,4.44551365409623,4.4
+Florence,ace,acespwq,St. Pierre (SP),do_mgl,1,6.7,4.25903771131339,4.5
+Florence,ace,aceeiwq,Edisto Island (EI),do_mgl,2,6.7,4.87334200260078,5
+Florence,ace,acegpwq,Grove Plantation (GP),do_mgl,3.4,6.8,5.59128738621586,5.8
+Florence,ace,acejiwq,Jehossee Island (JI),do_mgl,2.4,6.4,4.90845253576073,5.5
+Florence,niw,niwcbwq,Clambank (CB),do_mgl,2.1,6.6,4.81898569570871,5.1
+Florence,niw,niwdcwq,Debidue Creek (DC),do_mgl,2.6,6.6,5.01014304291287,5.2
+Florence,niw,niwolwq,Oyster Landing (OL),do_mgl,1.8,6.1,3.57272727272727,3.7
+Florence,niw,niwtawq,Thousand Acre (TA),do_mgl,1,7.4,4.52106631989597,4.5
+Florence,niw,niwwswq,Winyah Bay Surface (WS),do_mgl,2.1,8.9,5.32522756827048,5.7
+Florence,niw,niwwbwq,Winyah Bay Bottom (WB),do_mgl,2.1,6.7,5.05214564369311,5.3
+Florence,noc,nocrcwq,Research Creek (RC),do_mgl,3.3,7,5.7446033810143,6
+Florence,noc,noczbwq,Zeke's Basin (ZB),do_mgl,1.6,7.5,5.69141742522757,6
+Florence,ace,acefcwq,Fishing Creek (FC),do_pct,19.8,77.2,50.6286085825748,49.9
+Florence,ace,acemcwq,Mosquito Creek (MC),do_pct,34.7,86.4,63.1353706111834,61.1
+Florence,ace,acespwq,St. Pierre (SP),do_pct,15.4,104.9,65.6148244473342,69
+Florence,ace,aceeiwq,Edisto Island (EI),do_pct,30.8,103.8,74.7269180754226,76.2
+Florence,ace,acegpwq,Grove Plantation (GP),do_pct,46.7,86.7,71.1576072821847,73.7
+Florence,ace,acejiwq,Jehossee Island (JI),do_pct,36.7,92.1,69.0867360208062,76
+Florence,niw,niwcbwq,Clambank (CB),do_pct,30,99,70.5243172951886,72.7
+Florence,niw,niwdcwq,Debidue Creek (DC),do_pct,34.6,102.6,72.0661898569571,75.8
+Florence,niw,niwolwq,Oyster Landing (OL),do_pct,25.5,89,49.2627705627706,48.1
+Florence,niw,niwtawq,Thousand Acre (TA),do_pct,12.6,107.7,59.269310793238,58.1
+Florence,niw,niwwswq,Winyah Bay Surface (WS),do_pct,26,129.7,70.0170351105332,76.5
+Florence,niw,niwwbwq,Winyah Bay Bottom (WB),do_pct,26,93.6,67.5308192457737,74.7
+Florence,noc,nocrcwq,Research Creek (RC),do_pct,45.4,100.2,82.2453836150845,86.3
+Florence,noc,noczbwq,Zeke's Basin (ZB),do_pct,24,97.1,77.1973992197659,82
+Florence,ace,acefcwq,Fishing Creek (FC),ph,6.8,7.6,6.99934980494148,6.9
+Florence,ace,acemcwq,Mosquito Creek (MC),ph,6.9,7.6,7.23641092327698,7.2
+Florence,ace,acespwq,St. Pierre (SP),ph,7.2,8,7.62509752925878,7.6
+Florence,ace,aceeiwq,Edisto Island (EI),ph,7.2,8,7.62171651495449,7.6
+Florence,ace,acegpwq,Grove Plantation (GP),ph,6.4,7.2,6.74564369310793,6.7
+Florence,ace,acejiwq,Jehossee Island (JI),ph,6.8,7.7,7.32379713914174,7.4
+Florence,niw,niwcbwq,Clambank (CB),ph,7.1,8,7.57737321196359,7.6
+Florence,niw,niwdcwq,Debidue Creek (DC),ph,6.8,8,7.46124837451235,7.6
+Florence,niw,niwolwq,Oyster Landing (OL),ph,6.7,7.9,7.11255411255411,7
+Florence,niw,niwtawq,Thousand Acre (TA),ph,6.3,7.8,6.90806241872562,6.8
+Florence,niw,niwwswq,Winyah Bay Surface (WS),ph,6.1,8,7.05013020833333,7.2
+Florence,niw,niwwbwq,Winyah Bay Bottom (WB),ph,6.1,7.7,7.04544270833333,7.2
+Florence,noc,nocrcwq,Research Creek (RC),ph,7,7.9,7.52262678803641,7.6
+Florence,noc,noczbwq,Zeke's Basin (ZB),ph,7,7.8,7.49700910273082,7.5
+Florence,ace,acefcwq,Fishing Creek (FC),sal,5.9,25.7,13.4217165149545,12
+Florence,ace,acemcwq,Mosquito Creek (MC),sal,14.1,27.4,20.3525357607282,19.6
+Florence,ace,acespwq,St. Pierre (SP),sal,23.4,34.6,32.2422626788036,32
+Florence,ace,aceeiwq,Edisto Island (EI),sal,29.8,34.6,31.915344603381,31.9
+Florence,ace,acegpwq,Grove Plantation (GP),sal,0.1,8,1.71001300390117,1.2
+Florence,ace,acejiwq,Jehossee Island (JI),sal,8.4,28.5,18.374122236671,18.2
+Florence,niw,niwcbwq,Clambank (CB),sal,8,36.1,25.2224967490247,27.2
+Florence,niw,niwdcwq,Debidue Creek (DC),sal,1.2,36,22.1609882964889,24.2
+Florence,niw,niwolwq,Oyster Landing (OL),sal,4.4,31,12.4051948051948,10.8
+Florence,niw,niwtawq,Thousand Acre (TA),sal,0.1,20.8,8.16475942782835,6.1
+Florence,niw,niwwswq,Winyah Bay Surface (WS),sal,0.1,22.2,6.05812743823147,4.6
+Florence,niw,niwwbwq,Winyah Bay Bottom (WB),sal,0.1,25.4,8.78023407022107,7.8
+Florence,noc,nocrcwq,Research Creek (RC),sal,4.8,35.9,23.6677503250975,25.2
+Florence,noc,noczbwq,Zeke's Basin (ZB),sal,2,29.7,15.6423927178153,13.2
+Florence,ace,acefcwq,Fishing Creek (FC),spcond,10.4,40.3,22.2585565669701,20.24
+Florence,ace,acemcwq,Mosquito Creek (MC),spcond,23.34,42.72,32.626566970091,31.55
+Florence,ace,acespwq,St. Pierre (SP),spcond,37.24,52.78,49.4499609882965,49.08
+Florence,ace,aceeiwq,Edisto Island (EI),spcond,46.04,52.76,48.9967620286086,48.87
+Florence,ace,acegpwq,Grove Plantation (GP),spcond,0.21,13.95,3.19707412223667,2.28
+Florence,ace,acejiwq,Jehossee Island (JI),spcond,14.53,44.34,29.6853576072822,29.56
+Florence,niw,niwcbwq,Clambank (CB),spcond,13.93,54.78,39.3000520156047,42.42
+Florence,niw,niwdcwq,Debidue Creek (DC),spcond,2.26,54.52,34.5831079323797,38.13
+Florence,niw,niwolwq,Oyster Landing (OL),spcond,7.93,47.71,20.5558008658009,18.36
+Florence,niw,niwtawq,Thousand Acre (TA),spcond,0.16,33.41,13.6718205461638,10.78
+Florence,niw,niwwswq,Winyah Bay Surface (WS),spcond,0.11,35.41,10.2750845253576,8.28
+Florence,niw,niwwbwq,Winyah Bay Bottom (WB),spcond,0.11,40.04,14.482899869961,13.55
+Florence,noc,nocrcwq,Research Creek (RC),spcond,8.67,54.48,37.0429908972692,39.5
+Florence,noc,noczbwq,Zeke's Basin (ZB),spcond,3.72,45.93,25.1872691807542,21.97
+Florence,ace,acefcwq,Fishing Creek (FC),temp,77,86.72,82.1240312093628,82.04
+Florence,ace,acemcwq,Mosquito Creek (MC),temp,79.16,85.1,82.0278283485046,82.22
+Florence,ace,acespwq,St. Pierre (SP),temp,77.36,88.88,83.4907672301691,83.3
+Florence,ace,aceeiwq,Edisto Island (EI),temp,79.34,87.08,83.2796358907672,83.48
+Florence,ace,acegpwq,Grove Plantation (GP),temp,77.72,85.1,81.4852535760728,81.86
+Florence,ace,acejiwq,Jehossee Island (JI),temp,79.52,86,82.3805721716515,82.4
+Florence,niw,niwcbwq,Clambank (CB),temp,74.66,89.96,81.5407282184655,81.32
+Florence,niw,niwdcwq,Debidue Creek (DC),temp,74.66,90.32,81.4112873862159,81.32
+Florence,niw,niwolwq,Oyster Landing (OL),temp,78.44,85.82,82.6057142857143,82.58
+Florence,niw,niwtawq,Thousand Acre (TA),temp,74.3,86.9,80.3270741222367,79.88
+Florence,niw,niwwswq,Winyah Bay Surface (WS),temp,78.44,87.08,81.3902210663199,79.88
+Florence,niw,niwwbwq,Winyah Bay Bottom (WB),temp,78.44,86.9,81.3745383615085,79.7
+Florence,noc,nocrcwq,Research Creek (RC),temp,76.82,88.34,80.4696228868661,80.06
+Florence,noc,noczbwq,Zeke's Basin (ZB),temp,75.92,87.62,80.1550325097529,79.52
+Florence,ace,acefcwq,Fishing Creek (FC),turb,10,315,35.2496749024707,26
+Florence,ace,acemcwq,Mosquito Creek (MC),turb,10,200,67.9206762028609,69
+Florence,ace,acespwq,St. Pierre (SP),turb,5,797,23.8292046936115,17
+Florence,ace,aceeiwq,Edisto Island (EI),turb,6,613,20.3029908972692,17
+Florence,ace,acegpwq,Grove Plantation (GP),turb,13,394,78.6801040312094,61
+Florence,ace,acejiwq,Jehossee Island (JI),turb,11,573,67.739921976593,49
+Florence,niw,niwcbwq,Clambank (CB),turb,6,188,29.1760104302477,23
+Florence,niw,niwdcwq,Debidue Creek (DC),turb,6,131,21.2552083333333,17
+Florence,niw,niwolwq,Oyster Landing (OL),turb,10,84,27.7272727272727,25
+Florence,niw,niwtawq,Thousand Acre (TA),turb,1,451,53.1510416666667,36
+Florence,niw,niwwswq,Winyah Bay Surface (WS),turb,11,847,39.3146944083225,23
+Florence,niw,niwwbwq,Winyah Bay Bottom (WB),turb,7,393,51.9869960988296,37
+Florence,noc,nocrcwq,Research Creek (RC),turb,2,799,28.2307692307692,13
+Florence,noc,noczbwq,Zeke's Basin (ZB),turb,5,891,97.1872561768531,32

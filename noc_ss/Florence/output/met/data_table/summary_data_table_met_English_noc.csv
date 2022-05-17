@@ -1,0 +1,8 @@
+event,reserve_code,station,station_name,parameter,min,max,mean,median,total
+Florence,noc,nocrcmet,Research Creek (RC),atemp,72.68,92.12,79.1656176853056,78.08,NA
+Florence,noc,nocrcmet,Research Creek (RC),bp,28.3782187573825,30.1204819277108,29.8000692435465,29.9137727380109,NA
+Florence,noc,nocrcmet,Research Creek (RC),intensprcp,0,0.566929133858268,0.0284242753140903,0,NA
+Florence,noc,nocrcmet,Research Creek (RC),maxwspd,1.56585929635751,66.2134788174034,20.3378448010648,15.8822871487691,NA
+Florence,noc,nocrcmet,Research Creek (RC),rh,44,99,89.6007802340702,93,NA
+Florence,noc,nocrcmet,Research Creek (RC),totprcp,0,0.141732283464567,0.00710606882852257,0,5.46456692913386
+Florence,noc,nocrcmet,Research Creek (RC),wspd,0.671082555581791,34.4489045198653,8.95882121664846,6.93451974101184,NA

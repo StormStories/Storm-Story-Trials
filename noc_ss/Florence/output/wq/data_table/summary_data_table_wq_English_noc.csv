@@ -1,0 +1,20 @@
+event,reserve_code,station,station_name,parameter,min,max,mean,median
+Florence,noc,nocrcwq,Research Creek (RC),cdepth,4.8556432,13.615486,7.87111486710013,7.7427824
+Florence,noc,noczbwq,Zeke's Basin (ZB),cdepth,0.1968504,6.725722,2.87805182782835,2.8543308
+Florence,noc,nocrcwq,Research Creek (RC),chlfluor,4.4,80.5,10.8353706111834,9.4
+Florence,noc,nocrcwq,Research Creek (RC),depth,5.0196852,12.5000004,7.74231309908973,7.6115488
+Florence,noc,noczbwq,Zeke's Basin (ZB),depth,0.0656168,5.7742784,2.74925005981795,2.7230972
+Florence,noc,nocrcwq,Research Creek (RC),do_mgl,3.3,7,5.7446033810143,6
+Florence,noc,noczbwq,Zeke's Basin (ZB),do_mgl,1.6,7.5,5.69141742522757,6
+Florence,noc,nocrcwq,Research Creek (RC),do_pct,45.4,100.2,82.2453836150845,86.3
+Florence,noc,noczbwq,Zeke's Basin (ZB),do_pct,24,97.1,77.1973992197659,82
+Florence,noc,nocrcwq,Research Creek (RC),ph,7,7.9,7.52262678803641,7.6
+Florence,noc,noczbwq,Zeke's Basin (ZB),ph,7,7.8,7.49700910273082,7.5
+Florence,noc,nocrcwq,Research Creek (RC),sal,4.8,35.9,23.6677503250975,25.2
+Florence,noc,noczbwq,Zeke's Basin (ZB),sal,2,29.7,15.6423927178153,13.2
+Florence,noc,nocrcwq,Research Creek (RC),spcond,8.67,54.48,37.0429908972692,39.5
+Florence,noc,noczbwq,Zeke's Basin (ZB),spcond,3.72,45.93,25.1872691807542,21.97
+Florence,noc,nocrcwq,Research Creek (RC),temp,76.82,88.34,80.4696228868661,80.06
+Florence,noc,noczbwq,Zeke's Basin (ZB),temp,75.92,87.62,80.1550325097529,79.52
+Florence,noc,nocrcwq,Research Creek (RC),turb,2,799,28.2307692307692,13
+Florence,noc,noczbwq,Zeke's Basin (ZB),turb,5,891,97.1872561768531,32

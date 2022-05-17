@@ -1,0 +1,22 @@
+event,reserve_code,station,station_name,parameter,min,max,mean,median,total
+Florence,ace,acebpmet,Bennett's Point (BP),atemp,73.58,94.1,81.2560988296489,80.96,NA
+Florence,niw,niwolmet,Oyster Landing (OL),atemp,73.04,90.14,79.5508972691808,79.34,NA
+Florence,noc,nocrcmet,Research Creek (RC),atemp,72.68,92.12,79.1656176853056,78.08,NA
+Florence,ace,acebpmet,Bennett's Point (BP),bp,29.5889440113395,30.090952043468,29.8688059051781,29.9137727380109,NA
+Florence,niw,niwolmet,Oyster Landing (OL),bp,29.2641152846681,30.090952043468,29.8187702235547,29.9137727380109,NA
+Florence,noc,nocrcmet,Research Creek (RC),bp,28.3782187573825,30.1204819277108,29.8000692435465,29.9137727380109,NA
+Florence,ace,acebpmet,Bennett's Point (BP),intensprcp,0,0.236220472440945,0.00184307260682142,0,NA
+Florence,niw,niwolmet,Oyster Landing (OL),intensprcp,0,2.47244094488189,0.0546778206690354,0,NA
+Florence,noc,nocrcmet,Research Creek (RC),intensprcp,0,0.566929133858268,0.0284242753140903,0,NA
+Florence,ace,acebpmet,Bennett's Point (BP),maxwspd,0,22.369418519393,6.47869556910172,5.36866044465433,NA
+Florence,niw,niwolmet,Oyster Landing (OL),maxwspd,1.11847092596965,44.5151428535922,18.3938288847436,17.0007580747387,NA
+Florence,noc,nocrcmet,Research Creek (RC),maxwspd,1.56585929635751,66.2134788174034,20.3378448010648,15.8822871487691,NA
+Florence,ace,acebpmet,Bennett's Point (BP),rh,36,99,82.1430429128739,83,NA
+Florence,niw,niwolmet,Oyster Landing (OL),rh,62,99,88.8998699609883,91,NA
+Florence,noc,nocrcmet,Research Creek (RC),rh,44,99,89.6007802340702,93,NA
+Florence,ace,acebpmet,Bennett's Point (BP),totprcp,0,0.0590551181102362,0.000460768151705354,0,0.354330708661417
+Florence,niw,niwolmet,Oyster Landing (OL),totprcp,0,0.618110236220472,0.0136694551672588,0,10.511811023622
+Florence,noc,nocrcmet,Research Creek (RC),totprcp,0,0.141732283464567,0.00710606882852257,0,5.46456692913386
+Florence,ace,acebpmet,Bennett's Point (BP),wspd,0,7.15821392620577,2.35998819828135,2.01324766674537,NA
+Florence,niw,niwolmet,Oyster Landing (OL),wspd,0.671082555581791,30.4224091863745,12.1045025153314,11.4084034448905,NA
+Florence,noc,nocrcmet,Research Creek (RC),wspd,0.671082555581791,34.4489045198653,8.95882121664846,6.93451974101184,NA

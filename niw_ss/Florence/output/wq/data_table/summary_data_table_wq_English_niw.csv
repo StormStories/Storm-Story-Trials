@@ -1,0 +1,57 @@
+event,reserve_code,station,station_name,parameter,min,max,mean,median
+Florence,niw,niwcbwq,Clambank (CB),cdepth,0.656168,8.3005252,4.92467309752926,4.9868768
+Florence,niw,niwdcwq,Debidue Creek (DC),cdepth,4.429134,11.975066,8.77618300442133,8.858268
+Florence,niw,niwolwq,Oyster Landing (OL),cdepth,3.7073492,8.0052496,5.79742891601732,5.905512
+Florence,niw,niwtawq,Thousand Acre (TA),cdepth,5.1181104,10.9580056,8.41447999375813,8.4317588
+Florence,niw,niwwswq,Winyah Bay Surface (WS),cdepth,-0.0328084,5.9711288,3.27358716775033,3.28084
+Florence,niw,niwwbwq,Winyah Bay Bottom (WB),cdepth,14.0419952,19.2257224,16.5685978394794,16.6338588
+Florence,niw,niwolwq,Oyster Landing (OL),chlfluor,6.8,26.9,16.2021645021645,16.5
+Florence,niw,niwwswq,Winyah Bay Surface (WS),chlfluor,4.6,56.9,13.9488946684005,10.7
+Florence,niw,niwcbwq,Clambank (CB),depth,0.2952756,8.4973756,4.81912305643693,4.8228348
+Florence,niw,niwdcwq,Debidue Creek (DC),depth,4.0682416,12.0734912,8.670632963329,8.7270344
+Florence,niw,niwolwq,Oyster Landing (OL),depth,3.7073492,8.038058,5.81944321038961,5.905512
+Florence,niw,niwtawq,Thousand Acre (TA),depth,4.7244096,10.8595804,8.3089299526658,8.3333336
+Florence,niw,niwwswq,Winyah Bay Surface (WS),depth,-0.6889764,5.8727036,3.168037126658,3.1824148
+Florence,niw,niwwbwq,Winyah Bay Bottom (WB),depth,13.6811028,18.9632552,16.444623364859,16.4370084
+Florence,niw,niwcbwq,Clambank (CB),do_mgl,2.1,6.6,4.81898569570871,5.1
+Florence,niw,niwdcwq,Debidue Creek (DC),do_mgl,2.6,6.6,5.01014304291287,5.2
+Florence,niw,niwolwq,Oyster Landing (OL),do_mgl,1.8,6.1,3.57272727272727,3.7
+Florence,niw,niwtawq,Thousand Acre (TA),do_mgl,1,7.4,4.52106631989597,4.5
+Florence,niw,niwwswq,Winyah Bay Surface (WS),do_mgl,2.1,8.9,5.32522756827048,5.7
+Florence,niw,niwwbwq,Winyah Bay Bottom (WB),do_mgl,2.1,6.7,5.05214564369311,5.3
+Florence,niw,niwcbwq,Clambank (CB),do_pct,30,99,70.5243172951886,72.7
+Florence,niw,niwdcwq,Debidue Creek (DC),do_pct,34.6,102.6,72.0661898569571,75.8
+Florence,niw,niwolwq,Oyster Landing (OL),do_pct,25.5,89,49.2627705627706,48.1
+Florence,niw,niwtawq,Thousand Acre (TA),do_pct,12.6,107.7,59.269310793238,58.1
+Florence,niw,niwwswq,Winyah Bay Surface (WS),do_pct,26,129.7,70.0170351105332,76.5
+Florence,niw,niwwbwq,Winyah Bay Bottom (WB),do_pct,26,93.6,67.5308192457737,74.7
+Florence,niw,niwcbwq,Clambank (CB),ph,7.1,8,7.57737321196359,7.6
+Florence,niw,niwdcwq,Debidue Creek (DC),ph,6.8,8,7.46124837451235,7.6
+Florence,niw,niwolwq,Oyster Landing (OL),ph,6.7,7.9,7.11255411255411,7
+Florence,niw,niwtawq,Thousand Acre (TA),ph,6.3,7.8,6.90806241872562,6.8
+Florence,niw,niwwswq,Winyah Bay Surface (WS),ph,6.1,8,7.05013020833333,7.2
+Florence,niw,niwwbwq,Winyah Bay Bottom (WB),ph,6.1,7.7,7.04544270833333,7.2
+Florence,niw,niwcbwq,Clambank (CB),sal,8,36.1,25.2224967490247,27.2
+Florence,niw,niwdcwq,Debidue Creek (DC),sal,1.2,36,22.1609882964889,24.2
+Florence,niw,niwolwq,Oyster Landing (OL),sal,4.4,31,12.4051948051948,10.8
+Florence,niw,niwtawq,Thousand Acre (TA),sal,0.1,20.8,8.16475942782835,6.1
+Florence,niw,niwwswq,Winyah Bay Surface (WS),sal,0.1,22.2,6.05812743823147,4.6
+Florence,niw,niwwbwq,Winyah Bay Bottom (WB),sal,0.1,25.4,8.78023407022107,7.8
+Florence,niw,niwcbwq,Clambank (CB),spcond,13.93,54.78,39.3000520156047,42.42
+Florence,niw,niwdcwq,Debidue Creek (DC),spcond,2.26,54.52,34.5831079323797,38.13
+Florence,niw,niwolwq,Oyster Landing (OL),spcond,7.93,47.71,20.5558008658009,18.36
+Florence,niw,niwtawq,Thousand Acre (TA),spcond,0.16,33.41,13.6718205461638,10.78
+Florence,niw,niwwswq,Winyah Bay Surface (WS),spcond,0.11,35.41,10.2750845253576,8.28
+Florence,niw,niwwbwq,Winyah Bay Bottom (WB),spcond,0.11,40.04,14.482899869961,13.55
+Florence,niw,niwcbwq,Clambank (CB),temp,74.66,89.96,81.5407282184655,81.32
+Florence,niw,niwdcwq,Debidue Creek (DC),temp,74.66,90.32,81.4112873862159,81.32
+Florence,niw,niwolwq,Oyster Landing (OL),temp,78.44,85.82,82.6057142857143,82.58
+Florence,niw,niwtawq,Thousand Acre (TA),temp,74.3,86.9,80.3270741222367,79.88
+Florence,niw,niwwswq,Winyah Bay Surface (WS),temp,78.44,87.08,81.3902210663199,79.88
+Florence,niw,niwwbwq,Winyah Bay Bottom (WB),temp,78.44,86.9,81.3745383615085,79.7
+Florence,niw,niwcbwq,Clambank (CB),turb,6,188,29.1760104302477,23
+Florence,niw,niwdcwq,Debidue Creek (DC),turb,6,131,21.2552083333333,17
+Florence,niw,niwolwq,Oyster Landing (OL),turb,10,84,27.7272727272727,25
+Florence,niw,niwtawq,Thousand Acre (TA),turb,1,451,53.1510416666667,36
+Florence,niw,niwwswq,Winyah Bay Surface (WS),turb,11,847,39.3146944083225,23
+Florence,niw,niwwbwq,Winyah Bay Bottom (WB),turb,7,393,51.9869960988296,37
